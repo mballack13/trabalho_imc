@@ -1,0 +1,16 @@
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.csprojAssemblyReference.cache
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.AssemblyInfoInputs.cache
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.AssemblyInfo.cs
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.csproj.CoreCompileInputs.cache
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.exe
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.deps.json
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.runtimeconfig.json
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.runtimeconfig.dev.json
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.dll
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\ref\trabalhando01.dll
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\bin\Debug\net5.0\trabalhando01.pdb
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.dll
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\ref\trabalhando01.dll
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.pdb
+D:\COMPARTILHAMENTO\desenvolvimento\c#-workspace\trabalhando01\trabalhando01\obj\Debug\net5.0\trabalhando01.genruntimeconfig.cache
